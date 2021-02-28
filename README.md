@@ -7,7 +7,7 @@
 
 ### Shot Widget
 
-![ShotWidget](https://github.com/zekkontro/widget_shot/blob/main/screenshots/shot_widget.png?raw=true)
+![ShotWidget](https://firebasestorage.googleapis.com/v0/b/sohbetapp-1339e.appspot.com/o/png%2FSOHBET-MEDIA-yHApsRgIUfe3WSTPgA37CiNBJW92-1614537662767.png?alt=media&token=44d3cdb2-7a48-4feb-a287-26d8694788dd)
 
 ## Example Code
 
