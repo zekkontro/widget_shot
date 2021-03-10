@@ -14,7 +14,7 @@ class ShotService {
 
     ByteData byteData = await image.toByteData(format: ui.ImageByteFormat.png);
     Uint8List pngBytes = byteData.buffer.asUint8List();
-    print(pngBytes);
+
     await File(imagePath).create();
     await File('$imagePath').writeAsBytes(pngBytes);
     File imgFile = new File('$imagePath');
